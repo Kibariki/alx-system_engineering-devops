@@ -1,2 +1,2 @@
 #!/bin/bsh
-cat /etc/passwd/e
+cat /etc/passwd
